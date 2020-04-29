@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1a672e7902d6d2492f4d00954695628",
+    "revision": "43f69bfeec5c2ba829cb751de7705a69",
     "url": "/murillo-resume/index.html"
   },
   {
-    "revision": "828454fb728f6f5900ec",
+    "revision": "19dabb9d8fd4e54de484",
     "url": "/murillo-resume/static/css/main.a6051a98.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/murillo-resume/static/js/2.989a0537.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "828454fb728f6f5900ec",
-    "url": "/murillo-resume/static/js/main.da764afd.chunk.js"
+    "revision": "19dabb9d8fd4e54de484",
+    "url": "/murillo-resume/static/js/main.0d5daeba.chunk.js"
   },
   {
     "revision": "5cda54eef36f9a814a33",
